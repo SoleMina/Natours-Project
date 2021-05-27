@@ -82,7 +82,7 @@ body {
     opacity: 0;
     transform: translateX(-100px);
   }
-  80% {
+  70% {
     opacity: 0.5;
   }
   100% {
@@ -95,7 +95,7 @@ body {
     opacity: 0;
     transform: translateX(100px);
   }
-  80% {
+  70% {
     opacity: 0.5;
   }
   100% {
