@@ -17,6 +17,7 @@ Dark green: #28b485
 html {
   /*font-size: 10px;*/
   font-size: 62.5%;
+  /*1rem es igual a 10px*/
 }
 body {
   font-family: "Lato", sans-serif;
