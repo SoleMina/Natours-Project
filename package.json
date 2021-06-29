@@ -1,0 +1,25 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoleMina/Natours-Project.git"
+  },
+  "author": "Karina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoleMina/Natours-Project/issues"
+  },
+  "homepage": "https://github.com/SoleMina/Natours-Project#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
