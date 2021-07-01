@@ -178,7 +178,7 @@ body {
   }
   &--animated {
     animation: moveInBotton 2s ease-out 0.75s;
-    /*Animation wait until all the other animation happens*/
+    /*Animation wait until all the other animation happens first*/
     animation-fill-mode: backwards;
   }
 }
