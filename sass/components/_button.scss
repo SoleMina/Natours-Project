@@ -29,6 +29,17 @@
       opacity: 0;
     }
   }
+  &--green {
+    background-color: $color-primary;
+    color: $color-white;
+    &::after {
+      background-color: $color-primary;
+    }
+    &:hover::after {
+      transform: scale(1.4) scaleY(1.6);
+      opacity: 0;
+    }
+  }
 
   /*Add after seudo-element to add an animation*/
   &::after {
